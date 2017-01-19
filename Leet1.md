@@ -19,3 +19,4 @@ class Solution(object):
                 return [a[target-nums[i]],i];
             a[nums[i]] = i;
 ```
+[Two sum](https://leetcode.com/problems/two-sum/)
